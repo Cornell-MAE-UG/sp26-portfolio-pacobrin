@@ -1,14 +1,14 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Paige Cobrin - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Cobrin, Paige Resume.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [pac252@cornell.edu](mailto:pac252@cornell.edu) | | | **Phone:** +347 326 4679
 
 ---
 
