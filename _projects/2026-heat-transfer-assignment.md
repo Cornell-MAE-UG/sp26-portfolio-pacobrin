@@ -3,7 +3,7 @@ layout: project
 title: Heat Transfer Assignment 3
 description: 
 technologies: [N/A]
-image: /assets/images/pset3pic.jpeg
+image: /assets/images/pset3pic.jpg
 ---
 
 
