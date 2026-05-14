@@ -12,4 +12,4 @@ Our team designed and built an autonomous competition robot focused on speed, du
 
 Throughout the project, our team iterated significantly on both the mechanical and electrical design. Early concepts involved deployable mechanisms and string-based collection systems, but we ultimately simplified the robot to improve robustness and reduce failure points. We also adapted to manufacturing challenges during laser cutting by switching from wood to acrylic components, which unexpectedly improved weight distribution and storage space underneath the robot. On competition day, the design performed extremely well, finishing round robin play with a 5–2 record and advancing to the elimination bracket. The project reinforced the importance of balancing creativity with reliability and demonstrated how strategic simplification can lead to stronger engineering outcomes. 
 
-[View Full Project Report](/assets/pdfs/MAE 3780 Final Report - Group 1.pdf)
+[View Full Project Report](/assets/pdfs/MAE-3780-Final-Report-Group-1.pdf)
